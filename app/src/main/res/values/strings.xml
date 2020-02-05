@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="loading_error_message">We were unable to execute your query.  Check your internet connection.</string>
+</resources>
